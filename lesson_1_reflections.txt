@@ -1,0 +1,46 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Viewing the difference between two versions helped me spot the bug
+    by listing out the lines with differences in the versions.
+    This narrowed down my search to only lines with differences.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    This could help me reverting back to a more stable version of a code with newly
+    created bugs.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pros are that you have the control of creating logical commits that can be
+    made sense of when looking back at your commit history.
+
+    The cons are that this is subject to human error since it is done manually.
+    You can forget to commit at the appropriate time or even over commit.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    This is because systems like GIT are tailored for developers where some logical
+    changes are tied to more than one file. Systems like Google Docs are document based,
+    and focus on changes made in a single document.
+
+How can you use the commands git log and git diff to view the history of files?
+
+   You can use git log to get details of the commits with their messages and then
+   use git diff to see details of the lines added or deleted between two commit IDs
+   gotten from the git log.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Version control makes you more confident in makiing changes that could break
+    something by giving you the ability to switch between the state of any previous
+    commits.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try using git for managing some of my test web applications.
