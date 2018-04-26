@@ -19,6 +19,7 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
     Branches would be helpful when you want to try out some features that might not
     be in line with your main plan for your project. This makes it easy to go back to
     the master branch if the feature doesn't work out or work simultaneaously on both
