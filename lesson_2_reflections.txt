@@ -9,7 +9,7 @@ What value do you think it offers?
 
     The staging area is a container that holds the list of files to be updated
     on the repository from the working directory. This helps in grouping files to be
-    commited bsed on the logic of the changes made to them.
+    commited based on the logic of the changes made to them.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
@@ -37,6 +37,7 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
     Git's automatic merging makes merging easier and less tedious than merging manualy.
     The disadvantage of automatic merging is that resolving complex merge conflicts automatically
     can result to having illogical codes.

@@ -1,7 +1,7 @@
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
-    Viewing the difference between two versions helped me spot the bug
+    Viewing the difference between two versions helped me spot the bug,
     by listing out the lines with differences in the versions.
     This narrowed down my search to only lines with differences.
 
@@ -19,7 +19,7 @@ docs does?
     made sense of when looking back at your commit history.
 
     The cons are that this is subject to human error since it is done manually.
-    You can forget to commit at the appropriate time or even over commit.
+    You can forget to commit at the appropriate time or even overcommit.
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
@@ -31,14 +31,14 @@ files in one commit, while others, like Google Docs, treat each file separately?
 How can you use the commands git log and git diff to view the history of files?
 
    You can use git log to get details of the commits with their messages and then
-   use git diff to see details of the lines added or deleted between two commit IDs
+   use git diff to see details of the lines added or deleted between two commit IDs,
    gotten from the git log.
 
 How might using version control make you more confident to make changes that
 could break something?
 
     Version control makes you more confident in makiing changes that could break
-    something by giving you the ability to switch between the state of any previous
+    something, by giving you the ability to switch between the state of any previous
     commits.
 
 Now that you have your workspace set up, what do you want to try using Git for?
